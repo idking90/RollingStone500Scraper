@@ -48,7 +48,7 @@ public class UserGUI extends JFrame implements ActionListener{
 		doTheLayout();
 	}
 	private void initComponent() {
-		String[] forTesting = {""};
+		String[] forTesting = {"Press the 'Scrape Songs' button to scrape and populate this list"};
 		lblSong=new JLabel("Song: ");
 		cboSongs = new JComboBox(forTesting);//eliminate the arg once we get scraper up and running, this is just to test event handling
 		txtInfo = new JTextArea(10, 100);
@@ -79,9 +79,7 @@ public class UserGUI extends JFrame implements ActionListener{
 		});
 	}
 	private void cboSongs_Action() {
-		if(cboSongs.getSelectedItem().toString()==null |
-				cboSongs.getSelectedItem().toString().equals("") |
-				cboSongs.getSelectedItem()==null) {
+		if(cboSongs.getSelectedIndex()<1) {
 			return;
 		}
 		else {
@@ -90,13 +88,16 @@ public class UserGUI extends JFrame implements ActionListener{
 		}
 	}
 	private void btnScrape_Action() {
-		System.out.println("scrape button pressed");
+		System.out.println("scrape button pressed at " + new Date());
+		if(scraper != null) {
+			JOptionPane.showMessageDialog(null, "You've already scraped the website. Close the program and start over if you want to do it again.");
+			return;
+		}
 		scraper = new Scraper(URL_TO_USE, getOutputFileName());
-		cboSongs.removeAll();
-		cboSongs.insertItemAt("", 0);
 		for(Song song: scraper.songs) {
 			cboSongs.insertItemAt(song.getTitle(), song.getRank());
 		}
+		System.out.println("done adding to JCombo at " + new Date());
 	}
 	private Song findSongByTitle(String title) {
 		for(Song song: scraper.songs) {
@@ -135,7 +136,7 @@ public class UserGUI extends JFrame implements ActionListener{
 	private static String getOutputFileName() {
 		String outputFileName;
 		Date now = new Date();
-		String dateFormat = "yyyyMMddHHmm";
+		String dateFormat = "yyyyMMddHHmmss";
 		SimpleDateFormat format = new SimpleDateFormat(dateFormat);
 		String nowAsString = format.format(now);
 		outputFileName = "output" + nowAsString + ".txt";

@@ -35,9 +35,9 @@ public class Scraper{
 	private Pattern producerPattern=Pattern.compile("Producers?:\\s?<\\/strong>[\\s\\S]*?<br \\/>");
 	private Pattern releaseDatePattern=Pattern.compile("Released:[\\s\\S]*?,");
 	private Pattern artistPattern=Pattern.compile("data-list-title=\"[\\s\\S]*?,");
-	private Pattern titlePattern=Pattern.compile("&#8216;[\\s\\S]*?&#8217;");
+	private Pattern titlePattern=Pattern.compile("&#8216;[\\s\\S]*?(&#8217;\")|&#8216;[\\s\\S]*?(&#8221;\")");
 	private Pattern urlPattern=Pattern.compile("data-list-permalink=\"http.*\"");
-	private Pattern descriptionPattern=Pattern.compile("<\\/p>[\\s]*<p>.{15}");
+	private Pattern descriptionPattern=Pattern.compile("<\\/p>[\\s]*<p>.{200}");
 
 	private Matcher rankMatcher ;
 	private Matcher writerMatcher ;
@@ -130,42 +130,123 @@ public class Scraper{
 			}
 			while(urlMatcher.find()) {
 				url=urlMatcher.group();
+				
 			}
 			while(descriptionMatcher.find()) {
 				description=descriptionMatcher.group();
-				break;
+				break; //leaves while loop after first result of that pattern
 			}
 			//right now, the variables all appear as they're supposed to, minus "rankAsString" 
 			//except each one has a bunch of garbage attached to it from the regex to find it within the HTML
 			//next step is trying to get rid of that garbage to turn it into something meaningful
 			//and consider replacing the HTML code for some of the special characters, but that's low priority
-			System.out.println("rank******" + rankAsString);
-			System.out.println("writer******" +writer);
-			System.out.println("producer******" +producer);
-			System.out.println("releaseDate******" +releaseDate);
+			
+			/*
+
 			System.out.println("artist******" +artist);
 			System.out.println("title******" +title);
 			System.out.println("url******" +url);
-			System.out.println("description******" +description);
+			System.out.println("description******" +description);*/
+			
+			rankAsString = rankAsString.replace("data-list-item=\"", "");
+			try {
+				rank = Integer.parseInt(rankAsString);
+				if(rank < 1 | rank >50) {
+					throw new Exception();
+				}
+			}
+			catch(Exception e) {
+				System.out.println("issue converting rank to int");
+				e.printStackTrace();
+			}
+			//System.out.println("rank that has been converted******   " + rank);
+			writer = writer.replaceAll("Writers?:\\s?<\\/strong>", "");
+			writer=writer.replaceAll("<br \\/>", "");
+			writer=writer.replaceAll("&#xA0;", "");
+			writer=writer.replaceAll("<strong>", "");
+			writer=writer.replaceAll("&quot;", "\"");
+			writer=writer.trim();
+			//System.out.println("writer has been converted*********** " + writer);
+			
+			producer = producer.replaceAll("Producers?:\\s?<\\/strong>", "");
+			producer=producer.replaceAll("<br \\/>", "");
+			producer =producer.replaceAll("&#xA0;", " ");
+			producer=producer.replaceAll("<strong>", "");
+			producer=producer.replaceAll("&quot;", "\"");
+			producer=producer.replaceAll("Released: Sept. &apos;64", "");//handles when </br> isn't in the right place
+			producer=producer.trim();
+			if(rank==48) {//this one just did not play with the regex
+				producer="Art Garfunkel, Roy Halee, Simon";
+			}
+			//System.out.println("producer that has been covnerted********* " + producer);
 			
 			
+			releaseDate = releaseDate.replaceAll("Released:", "");			
+			releaseDate = releaseDate.substring(0, releaseDate.lastIndexOf(","));
+			releaseDate = releaseDate.replaceAll("&#xA0;", "");
+			releaseDate = releaseDate.replaceAll("&apos;", "'");
+			releaseDate=releaseDate.replaceAll("<\\/strong>", "");			
+			releaseDate=releaseDate.trim();
+			if(releaseDate.length() > 9) {
+				releaseDate=releaseDate.substring(0, 9);
+			}
+			releaseDate=releaseDate.replaceAll("[<]", "");
+			//System.out.println("release date post conversion*********** " + releaseDate);
 			
+			artist = artist.replaceAll("data-list-title=\"", "");
+			artist=artist.replaceAll(",", "");
+			artist=artist.trim();
+			
+			//System.out.println("artist post conversion********* " + artist);			//this was too easy and I don't trust it but ok.
+			
+			title = title.replaceAll("&#8216;", "");
+			title=title.replaceAll("&#8217;", "'");
+			title=title.replaceAll("&#8211;", "-");
+			title=title.replaceAll("\"", "");
+			title=title.replaceAll("&#8221;", "'");
+			title=title.substring(0, title.length()-1);
+			title=title.trim();
+			
+			//System.out.println("title post conversion******* " + title);
+			
+			url=url.replaceAll("data-list-permalink=\"", "");
+			url=url.substring(0, url.indexOf("\""));
+			//System.out.println("url post conversion ***** " + url);
+			
+			description=description.replaceAll("<\\/p>[\\s]*<p>", "");
+			description=description.replaceAll("&quot;", "\"");
+			description=description.replaceAll("&apos;", "'");
+			description=description.replaceAll("<a  href=\"[\\s\\S]*?\"  rel=\"nofollow\"  target=\"_blank\"  >", "");
+			description=description.replaceAll("</a>", "");
+			description=description.replaceAll("<strong>", "");
+			description=description.replaceAll("&#xA0;", "");
+			description=description.replaceAll("&#xA0;", "");
+			description=description.replaceAll("</strong>", "");
+			description=description.replaceAll("&amp;", "&");
+			description=description.replaceAll("<em>", "");
+			description=description.replaceAll("</em>", "");
+				
+			if(description.length() > 15) {
+				description=description.substring(0, 14);
+			}
+			//System.out.println("description****************** " + description);
 
 			
 			Song theSong = new Song(rank, writer, producer, releaseDate, url, description);
-			theSong.setArtist(artist);
+			theSong.setArtist(artist);//these two properties aren't part of the constructor, but are necessary for showing info in output area
 			theSong.setTitle(title);
-			songs[rank-1]=theSong;
+			songs[rank-1]=theSong;												
 			
 
 			
 		}//end for each songHTML loop
 
 		
-/*
+
 		
-	almost ready to uncomment this once it works...
-//		writeToFile();*/
+	
+		writeToFile();
+		System.out.println("success writing file at "+ new Date());
 	}
 	
 	// will read the data from songs array (one by one) and return a String of the all Song object strings in multiple lines, each line has a Song object String
