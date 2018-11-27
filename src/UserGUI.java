@@ -54,7 +54,9 @@ public class UserGUI extends JFrame implements ActionListener{
 		txtInfo = new JTextArea(10, 100);
 		btnScrape = new JButton("Scrape Songs");
 		btnClose = new JButton("Close");
-		scroll = new JScrollPane(txtInfo, JScrollPane.VERTICAL_SCROLLBAR_ALWAYS, JScrollPane.HORIZONTAL_SCROLLBAR_ALWAYS);
+		scroll = new JScrollPane(txtInfo,
+				JScrollPane.VERTICAL_SCROLLBAR_ALWAYS,
+				JScrollPane.HORIZONTAL_SCROLLBAR_ALWAYS);
 		txtInfo.setEditable(false);
 		txtInfo.setWrapStyleWord(true);
 		txtInfo.setLineWrap(true);
@@ -77,7 +79,9 @@ public class UserGUI extends JFrame implements ActionListener{
 		});
 	}
 	private void cboSongs_Action() {
-		if(cboSongs.getSelectedItem().toString()==null | cboSongs.getSelectedItem().toString().equals("")) {
+		if(cboSongs.getSelectedItem().toString()==null |
+				cboSongs.getSelectedItem().toString().equals("") |
+				cboSongs.getSelectedItem()==null) {
 			return;
 		}
 		else {
