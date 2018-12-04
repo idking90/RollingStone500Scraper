@@ -22,16 +22,15 @@ public class Song {
 	
 	private String url;
 	private String description;
-	private static int remainingObjects = 50;
+
 	
-	public Song(int rank, String writer, String producer, String releaseDate, String url, String description) {
+	public Song(int rank, String releaseDate, String artist, String title) {
 		this.rank = rank;
-		this.writer = writer;
-		this.producer = producer;
+
 		this.releaseDate = releaseDate;
-		this.url = url;
-		this.description = description;
-		remainingObjects--;
+
+		this.title=title;
+		this.artist=artist;
 	}
 	
 	public String getDescription() {
@@ -47,39 +46,37 @@ public class Song {
 		return rank;
 	}
 	public void setRank(int pRank) {
-		rank=pRank;
+		rank = pRank;
 	}
 	
 	public String getWriter() {
 		return writer;
 	}
 	public void setWriter(String pWriter) {
-		writer=pWriter;
+		writer = pWriter;
 	}
 	
 	public String getProducer() {
 		return producer;
 	}
 	public void setProducer(String pProducer) {
-		producer=pProducer;
+		producer = pProducer;
 	}
 	
 	public String getReleaseDate() {
 		return releaseDate;
 	}
 	public void setReleaseDate(String pReleaseDate) {
-		releaseDate=pReleaseDate;
+		releaseDate = pReleaseDate;
 	}
 	
 	public String getURL() {
 		return url;
 	}
 	public void setURL(String pURL) {
-		url=pURL;
+		url = pURL;
 	}
-	public int getRemainingObjects() {
-		return remainingObjects;
-	}
+	
 	public String getArtist() {
 		return artist;
 
@@ -91,11 +88,11 @@ public class Song {
 		return title;
 	}
 	public void setTitle(String pTitle) {
-		title=pTitle;
+		title = pTitle;
 	}
 	@Override
 	public String toString() {
-		return "Song [rank=" + rank + ", writer=" + writer + ", producer=" + producer + ", releaseDate=" + releaseDate
-				+ ", url=" + url + ", description=" + description + "]";
+		String s = " | ";
+		return rank + s + artist + s + title + s + releaseDate;
 	}
 }

@@ -1,0 +1,500 @@
+Rank | Artist | Song | Release Date1 | Bob Dylan | Like a Rolling Stone | July '65
+2 | The Rolling Stones | (I Can't Get No) Satisfaction | May '65
+3 | John Lennon | Imagine | Oct. '71
+4 | Marvin Gaye | What's Going On | Feb. '71
+5 | Aretha Franklin | Respect | April '67
+6 | The Beach Boys | Good Vibrations | Oct. '66
+7 | Chuck Berry | Johnny B. Goode | April '58
+8 | The Beatles | Hey Jude | Aug. '68
+9 | Nirvana | Smells Like Teen Spirit | Sept. '91
+10 | Ray Charles | What'd I Say | June '59
+11 | The Who | My Generation | Nov. '65
+12 | Sam Cooke | A Change Is Gonna Come | Dec. '64
+13 | The Beatles | Yesterday | Sept. '65
+14 | Bob Dylan | Blowin' in the Wind | May '63
+15 | The Clash | London Calling | Jan. '80
+16 | The Beatles | I Want to Hold Your Hand | Dec. '63
+17 | The Jimi Hendrix Experience | Purple Haze | March '67
+18 | Chuck Berry | Maybellene | July '55
+19 | Elvis Presley | Hound Dog | July '56
+20 | The Beatles | Let It Be | March '70
+21 | Bruce Springsteen | Born to Run | Aug. '75
+22 | The Ronettes | Be My Baby | Aug. '63
+23 | The Beatles | In My Life | Dec. '65
+24 | The Impressions | People Get Ready | Jan. '65
+25 | The Beach Boys | God Only Knows | May '66
+26 | Otis Redding | (Sittin' on) the Dock of the Bay | Jan. '68
+27 | Derek and the Dominos | Layla | Nov. '70
+28 | The Beatles | A Day in the Life | June '67
+29 | The Beatles | Help! | July '65
+30 | Johnny Cash | I Walk the Line | Aug. '56
+31 | Led Zeppelin | Stairway to Heaven | Nov. '71
+32 | The Rolling Stones | Sympathy for the Devil | Dec. '68
+33 | Ike and Tina Turner | River Deep - Mountain High | May '66
+34 | The Righteous Brothers | You've Lost That Lovin' Feelin | Dec. '64
+35 | The Doors | Light My Fire | June '67
+36 | U2 | One | Nov. '91
+37 | Bob Marley | No Woman, No Cry | May '75
+38 | The Rolling Stones | Gimme Shelter | April '69
+39 | Buddy Holly and the Crickets | That'll Be the Day | May '57
+40 | Martha Reeves and the Vandellas | Dancing in the Street | Sept. '64
+41 | The Band | The Weight | Aug. '68
+42 | The Kinks | Waterloo Sunset | Feb. '68
+43 | Little Richard | Tutti-Frutti | Dec. '55
+44 | Ray Charles | Georgia on My Mind | Sept. '60
+45 | Elvis Presley | Heartbreak Hotel | Jan. '56
+46 | David Bowie | Heroes | Sept. '77
+47 | The Jimi Hendrix Experience | All Along the Watchtower | Sept. '68
+48 | Simon and Garfunkel | Bridge Over Troubled Water | Feb. '70
+49 | The Eagles | Hotel California | Dec. '76
+50 | Smokey Robinson and the Miracles | The Tracks of My Tears | June '65
+51 | Grandmaster Flash and the Furious Five | The Message | May '82
+52 | Prince | When Doves Cry | June '84
+53 | Percy Sledge | When a Man Loves a Woman | March '66
+54 | The Kingsmen | Louie Louie | June '63
+55 | Little Richard | Long Tall Sally | March '56
+56 | The Sex Pistols | Anarchy in the U.K. | Nov. '77
+57 | Procol Harum | Whiter Shade of Pale | June '67
+58 | Michael Jackson | Billie Jean | Jan. '83
+59 | Bob Dylan | The Times They Are A-Changin | Jan. '64
+60 | Al Green | Let's Stay Together | Dec. '71
+61 | Jerry Lee Lewis | Whole Lotta Shakin' Going On | June '57
+62 | Bo Diddley | Bo Diddley | June '55
+63 | Buffalo Springfield | For What It's Worth | Feb. '67
+64 | The Beatles | She Loves You | Sept. '63
+65 | Cream | Sunshine of Your Love | Jan. '68
+66 | Bob Marley and the Wailers | Redemption Song | June '80
+67 | Elvis Presley | Jailhouse Rock | Oct. '57
+68 | Bob Dylan | Tangled Up in Blue | Jan. '75
+69 | Roy Orbison | Crying | Aug. '61
+70 | Dionne Warwick | Walk On By | April '64
+71 | James Brown | Papa's Got A Brand New Bag | July '66
+72 | The Beach Boys | California Girls | July '65
+73 | Stevie Wonder | Superstition | Nov. '72
+74 | Eddie Cochran | Summertime Blues | July '58
+75 | Led Zeppelin | Whole Lotta Love | Oct. '69
+76 | The Beatles | Strawberry Fields Forever | Feb. '67
+77 | Elvis Presley | Mystery Train | Sept. '55
+78 | James Brown | I Got You (I Feel Good) | Nov. '65
+79 | The Byrds | Mr. Tambourine Man | May '65
+80 | The Kinks | You Really Got Me | Sept. '64
+81 | Marvin Gaye | I Heard It Through the Grapevine | Oct. '68
+82 | Fats Domino | Blueberry Hill | Oct. '56
+83 | The Beatles | Norwegian Wood (This Bird Has Flown) | Dec. '65
+84 | The Police | Every Breath You Take | May '83
+85 | Patsy Cline | Crazy | Oct. '61
+86 | Bruce Springsteen | Thunder Road | Aug. '75
+87 | Johnny Cash | Ring of Fire | May '63
+88 | The Temptations | My Girl | Jan. '65
+89 | The Mamas and the Papas | California Dreamin | Dec. '65
+90 | The Five Satins | In the Still of the Night | Sept. '56
+91 | Elvis Presley | Suspicious Minds | Sept. '69
+92 | Ramones | Blitzkrieg Bop | May '76
+93 | U2 | I Still Haven't Found What I'm Looking For | May '87
+94 | Little Richard | Good Golly, Miss Molly | Feb. '58
+95 | Carl Perkins | Blue Suede Shoes | Feb '56
+96 | Jerry Lee Lewis | Great Balls of Fire | Nov. '57
+97 | Chuck Berry | Roll Over Beethoven | May '56
+98 | Al Green | Love and Happiness | June '72
+99 | Creedence Clearwater Revival | Fortunate Son | Oct. '69
+100 | Gnarls Barkley | Crazy | May '06
+101 | The Rolling Stones | You Can't Always Get What You Want | July '69
+102 | The Jimi Hendrix Experience | Voodoo Child (Slight Return) | Oct. '68
+103 | Gene Vincent and His Blue Caps | Be-Bop-A-Lula | May '56
+104 | Donna Summer | Hot Stuff | April '79
+105 | Stevie Wonder | Living for the City | August '7
+106 | Simon and Garfunkel | The Boxer | April '69
+107 | Bob Dylan | Mr. Tambourine Man | March '65
+108 | Buddy Holly and the Crickets | Not Fade Away | Oct. '57
+109 | Prince | Little Red Corvette | March '83
+110 | Van Morrison | Brown Eyed Girl | June '67
+111 | Otis Redding | I've Been Loving You too Long (to Stop Now) | April '65
+112 | Hank Williams | I'm So Lonesome I Could Cry | Nov. '49
+113 | Elvis Presley | That's All Right | Aug. '54
+114 | The Drifters | Up on the Roof | Nov. '62
+115 | Sam Cooke | You Send Me | Oct. '57
+116 | The Rolling Stones | Honky Tonk Women | July '69
+117 | Al Green | Take Me to the River | Nov. '74
+118 | Beyonce feat. Jay-Z | Crazy in Love | May '03
+119 | The Isley Brothers | Shout (Parts 1 and 2) | Sept. '59
+120 | Fleetwood Mac | Go Your Own Way | Jan. '77
+121 | The Jackson 5 | I Want You Back | Nov. '69
+122 | Ben E. King | Stand By Me | April '61
+123 | The Animals | The House of the Rising Sun | July '64
+124 | James Brown | It's A Man's Man's Man's World | April '66
+125 | The Rolling Stones | Jumpin' Jack Flash | May '68
+126 | The Shirelles | Will You Love Me Tomorrow | Nov. '60
+127 | Big Joe Turner | Shake, Rattle &amp; Roll | April '54
+128 | David Bowie | Changes | Dec. '71
+129 | Chuck Berry | Rock &amp; Roll Music | Sept. '57
+130 | Steppenwolf | Born to Be Wild | Jan. '68
+131 | Rod Stewart | Maggie May | June '71
+132 | U2 | With or Without You | March '87
+133 | Bo Diddley | Who Do You Love? | March '57
+134 | The Who | Won't Get Fooled Again | July '71
+135 | Wilson Pickett | In the Midnight Hour | July '65
+136 | The Beatles | While My Guitar Gently Weeps | Nov. '68
+137 | Elton John | Your Song | Nov. '70
+138 | The Beatles | Eleanor Rigby | Aug. '66
+139 | Sly and the Family Stone | Family Affair | Oct. '71
+140 | The Beatles | I Saw Her Standing There | Jan. '64
+141 | Led Zeppelin | Kashmir | March '75
+142 | The Everly Brothers | All I Have to Do Is Dream | May '58
+143 | James Brown and His Famous Flames | Please, Please, Please | Feb. '56
+144 | Prince and the Revolution | Purple Rain | June '84
+145 | Ramones | I Wanna Be Sedated | Oct. '78
+146 | Sly and the Family Stone | Everyday People | Nov. '68
+147 | The B-52&#8217;s | Rock Lobster | July '79
+148 | Janis Joplin | Me and Bobby McGee | Jan. '71
+149 | Iggy Pop | Lust for Life | Sept. '77
+150 | The Everly Brothers | Cathy's Clown | April '60
+151 | The Byrds | Eight Miles High | April '66
+152 | The Penguins | Earth Angel | Dec. '54
+153 | The Jimi Hendrix Experience | Foxey Lady | Aug. '65
+154 | The Beatles | A Hard Day's Night | July '64
+155 | Buddy Holly and the Crickets | Rave On | April '58
+156 | Creedence Clearwater Revival | Proud Mary | Jan. '69
+157 | Simon and Garfunkel | The Sounds of Silence | Nov. '65
+158 | The Flamingos | I Only Have Eyes for You | April '59
+159 | Bill Haley and His Comets | (We're Gonna) Rock Around the Clock | May '54
+160 | U2 | Moment of Surrender | March '09
+161 | The Velvet Underground | I'm Waiting for the Man | March '67
+162 | Public Enemy | Bring the Noise | April '88
+163 | Johnny Cash | Folsom Prison Blues | Jan. '56
+164 | Ray Charles | I Can't Stop Loving You | May '62
+165 | Sinead O&#8217;Connor | Nothing Compares 2 U | March '90
+166 | Queen | Bohemian Rhapsody | Nov. '75
+167 | Tracy Chapman | Fast Car | April '88
+168 | Marvin Gaye | Let's Get It On | June '73
+169 | The Temptations | Papa Was a Rollin' Stone | Oct. '72
+170 | R.E.M. | Losing My Religion | March '91
+171 | Joni Mitchell | Both Sides Now | May '69
+172 | Jay-Z | 99 Problems | Nov. '03
+173 | Aerosmith | Dream On | June '73
+174 | Abba | Dancing Queen | Nov. '76
+175 | The Sex Pistols | God Save the Queen | May '77
+176 | The Rolling Stones | Paint it Black | May '66
+177 | The Bobby Fuller Four | I Fought the Law | Feb. '66
+178 | The Beach Boys | Don't Worry Baby | May '64
+179 | Tom Petty | Free Fallin | June '89
+180 | Big Star | September Gurls | May '74
+181 | Joy Division | Love Will Tear Us Apart | April '80
+182 | OutKast | Hey Ya! | Sept. '03
+183 | Booker T. and the MG&#8217;s | Green Onions | Oct. '62
+184 | The Drifters | Save the Last Dance for Me | Sept. '60
+185 | B.B. King | The Thrill is Gone | Dec. '69
+186 | The Beatles | Please Please Me | Feb. '64
+187 | Bob Dylan | Desolation Row | Aug. '65
+188 | Creedence Clearwater Revival | Who'll Stop the Rain | Jan. '70
+189 | Aretha Franklin | I Never Loved a Man (the Way I Love You) | March '67
+190 | AC/DC | Back in Black | July '80
+191 | Bee Gees | Stayin' Alive | Nov. '77
+192 | Bob Dylan | Knockin' on Heaven's Door | July '73
+193 | Lynyrd Skynyrd | Free Bird | Sept. '73
+194 | Amy Winehouse | Rehab | March '07
+195 | Glen Campbell | Wichita Lineman | Nov. '68
+196 | The Drifters | There Goes My Baby | May '59
+197 | Buddy Holly | Peggy Sue | Sept. '57
+198 | Guns n&#8217; Roses | Sweet Child O'Mine | Aug. '87
+199 | The Chantels | Maybe | Dec. '57
+200 | Elvis Presley | Don't Be Cruel | July '56
+201 | The Jimi Hendrix Experience | Hey Joe | Dec. '66
+202 | Parliament | Flash Light | Dec. '77
+203 | Beck | Loser | 19
+204 | New Order | Bizarre Love Triangle | Oct. '86
+205 | The Beatles | Come Together | Sept. '69
+206 | Bob Dylan | Positively 4th Street | Sept. '65
+207 | Otis Redding | Try a Little Tenderness | Dec. '66
+208 | Bill Withers | Lean on Me | June '72
+209 | The Four Tops | Reach Out, I'll Be There | Aug. '66
+210 | The Everly Brothers | Bye Bye Love | May '57
+211 | Them | Gloria | March '65
+212 | The Beach Boys | In My Room | Sept. '63
+213 | ? and the Mysterians | 96 Tears | Sept. '66
+214 | The Beach Boys | Caroline, No | March '66
+215 | Prince | 1999 | Oct. '82
+216 | Neil Young | Rockin' in the Free World | Oct. '89
+217 | Hank Williams | Your Cheatin' Heart | Jan. '53
+218 | The Lovin&#8217; Spoonful | Do You Believe in Magic | July '65
+219 | Dolly Parton | Jolene | Jan. '74
+220 | John Lee Hooker | Boom Boom | Feb. '62
+221 | Howlin&#8217; Wolf | Spoonful | June '60
+222 | The Left Banke | Walk Away Renee | Sept. '66
+223 | Lou Reed | Walk on the Wild Side | Dec. '72
+224 | Roy Orbison | Oh, Pretty Woman | Aug. '64
+225 | Sly and the Family Stone | Dance to the Music | Jan. '68
+226 | Muddy Waters | Hoochie Coochie Man | Jan. '54
+227 | James Taylor | Fire and Rain | Feb. '70
+228 | The Clash | Should I Stay or Should I Go | May '82
+229 | Chic | Good Times | June '79
+230 | Muddy Waters | Mannish Boy | May '55
+231 | Van Morrison | Moondance | Feb. '70
+232 | Bob Dylan | Just Like a Woman | May '66
+233 | Marvin Gaye | Sexual Healing | Oct. '82
+234 | Roy Orbison | Only the Lonely | May '60
+235 | The Animals | We Gotta Get Out of This Place | Aug. &#x2
+236 | M.I.A. | Paper Planes | August '0
+237 | The Byrds | I'll Feel a Whole Lot Better | June '65
+238 | Buddy Holly and the Crickets | Everyday | Sept. '57
+239 | Ray Charles | I Got a Woman | Nov. '54
+240 | Afrika Bambaataa and the Soul Sonic Force | Planet Rock | July '82
+241 | Patsy Cline | I Fall to Pieces | Jan. '61
+242 | Dusty Springfield | Son of a Preacher Man | Nov. '68
+243 | Dion | The Wanderer | Dec. '61
+244 | Sly and the Family Stone | Stand! | April '69
+245 | Elton John | Rocket Man | May '72
+246 | The B-52&#8217;s | Love Shack | June '89
+247 | The Spencer Davis Group | Gimme Some Lovin | Dec. '66
+248 | Jackie Wilson | (Your Love Keeps Lifting Me) Higher and Higher | Aug. '67
+249 | The Band | The Night They Drove Old Dixie Down | Sept. '69
+250 | Sly and the Family Stone | Hot Fun in the Summertime | Aug. '69
+251 | Sugarhill Gang | Rapper's Delight | Oct. '79
+252 | Aretha Franklin | Chain of Fools | Nov. '67
+253 | Black Sabbath | Paranoid | Nov. '70
+254 | The Drifters | Money Honey | Sept.'53
+255 | Bobby Darin | Mack the Knife | March '59
+256 | Mott the Hoople | All the Young Dudes | July &#x2
+257 | Radiohead | Paranoid Android | May '97
+258 | AC/DC | Highway to Hell | Aug. '79
+259 | Blondie | Heart of Glass | Sept. '78
+260 | Bob Dylan | Mississippi | Sept. '01
+261 | The Troggs | Wild Thing | June '66
+262 | The Who | I Can See For Miles | Oct. '67
+263 | The Dells | Oh, What A Night | Aug. '69
+264 | Jeff Buckley | Hallelujah | Aug. '94
+265 | Stevie Wonder | Higher Ground | Aug. '73
+266 | Smokey Robinson and The Miracles | Ooo Baby Baby | March '65
+267 | The Crystals | He's A Rebel | Aug. '62
+268 | Randy Newman | Sail Away | June '72
+269 | The Ronettes | Walking in the Rain | Oct. '64
+270 | Archie Bell and The Drells | Tighten Up | March '68
+271 | New York Dolls | Personality Crisis | Aug. '73
+272 | U2 | Sunday Bloody Sunday | March '83
+273 | Kanye West | Jesus Walks | Feb. '04
+274 | The Modern Lovers | Roadrunner | Oct.'76
+275 | George Jones | He Stopped Loving Her Today | March '80
+276 | The Beach Boys | Sloop John B | March '66
+277 | Chuck Berry | Sweet Little Sixteen | Jan. '58
+278 | The Beatles | Something | Oct. '69
+279 | Jefferson Airplane | Somebody to Love | Feb. '67
+280 | Bruce Springsteen | Born in the U.S.A. | June '84
+281 | The Staple Singers | I'll Take You There | June '72
+282 | David Bowie | Ziggy Stardust | June '72
+283 | The Cure | Pictures of You | May '89
+284 | The Dixie Cups | Chapel of Love | June '64
+285 | Bill Withers | Ain't No Sunshine | July '71
+286 | The White Stripes | Seven Nation Army | April '03
+287 | Stevie Wonder | You Are the Sunshine of My Life | Nov. '72
+288 | Joni Mitchell | Help Me | Feb. '74
+289 | Blondie | Call Me | Feb. '80
+290 | Elvis Costello and the Attractions | (What's So Funny About) Peace, Love and Understanding | Jan. '79
+291 | Howlin&#8217; Wolf | Smokestack Lightning | March '56
+292 | Pavement | Summer Babe (Winter Version) | April '92
+293 | Run-DMC | Walk This Way | May '86
+294 | Barrett Strong | Money (That's What I Want) | Jan. '60
+295 | The Beatles | Can't Buy Me Love | March '64
+296 | Eminem feat. Dido | Stan | March '00
+297 | The Zombies | She's Not There | Oct. '64
+298 | The Clash | Train in Vain | Dec. '79
+299 | Al Green | Tired of Being Alone | July '71
+300 | Led Zeppelin | Black Dog | Nov. '71
+301 | The Rolling Stones | Street Fighting Man | Aug. '68
+302 | Bob Marley and the Wailers | Get Up, Stand Up | Nov. '75
+303 | Neil Young | Heart of Gold | Feb '72
+304 | Prince | Sign O' The Times | March '87
+305 | Blondie | One Way or Another | Sept. '78
+306 | Madonna | Like A Prayer | March '89
+307 | Daft Punk | One More Time | Nov. '00
+308 | Rod Stewart | Da Ya Think I'm Sexy? | Dec. '78
+309 | Willie Nelson | Blue Eyes Crying in the Rain | July '75
+310 | The Rolling Stones | Ruby Tuesday | Jan. '67
+311 | The Beatles | With a Little Help From My Friends | June '67
+312 | James Brown | Say It Loud - I'm Black and I'm Proud | Sept. '68
+313 | The Jam | That's Entertainment | Nov. '80
+314 | Frankie Lymon and The Teenagers | Why Do Fools Fall In Love | Jan. '56
+315 | Jackie Wilson | Lonely Teardrops | Nov. '58
+316 | Tina Turner | What's Love Got to Do With It | June '84
+317 | Black Sabbath | Iron Man | Feb. '71
+318 | The Everly Brothers | Wake Up Little Susie | Sept. '57
+319 | Roy Orbison | In Dreams | Feb. '63
+320 | Screamin&#8217; Jay Hawkins | I Put a Spell on You | Sept. '56
+321 | Pink Floyd | Comfortably Numb | Dec. '79
+322 | The Animals | Don't Let Me Be Misunderstood | Jan. '65
+323 | Elvis Costello | Alison | Nov. '77
+324 | Pink Floyd | Wish You Were Here | Sept. '75
+325 | Jimmy Cliff | Many Rivers to Cross | Dec. '69
+326 | Alice Cooper | School's Out | May '72
+327 | Franz Ferdinand | Take Me Out | Feb. '04
+328 | Led Zeppelin | Heartbreaker | Oct. '69
+329 | Neil Young | Cortez the Killer | Nov. '75
+330 | Public Enemy | Fight the Power | June '89
+331 | Patti Smith Group | Dancing Barefoot | May '79
+332 | The Supremes | Baby Love | Sept. '64
+333 | The Young Rascals | Good Lovin | March '66
+334 | James Brown | Get Up (I Feel Like Being a) Sex Machine | July '70
+335 | Jerry Butler and The Impressions | For Your Precious Love | June '58
+336 | The Doors | The End | March '67
+337 | Earth | Way of the World | March '75
+338 | Queen | We Will Rock You | Oct. '77
+339 | Bonnie Raitt | I Can't Make You Love Me | Nov. '91
+340 | Bob Dylan | Subterranean Homesick Blues | March '65
+341 | Norman Greenbaum | Spirit in the Sky | Feb. '70
+342 | The Velvet Underground | Sweet Jane | Aug. '70
+343 | The Rolling Stones | Wild Horses | April '71
+344 | Michael Jackson | Beat It | Dec. '82
+345 | U2 | Beautiful Day | Oct. '00
+346 | Aerosmith | Walk This Way | Dec. '76
+347 | Paul McCartney | Maybe I'm Amazed | April '70
+348 | The Supremes | You Keep Me Hanging On | Oct. &#x2
+349 | The Who | Baba O'Riley | Aug. '71
+350 | Jimmy Cliff | The Harder They Come | March '75
+351 | Dion | Runaround Sue | Sept. '61
+352 | Lavern Baker | Jim Dandy | Dec. '56
+353 | Big Brother and the Holding Company | Piece of My Heart | Aug. &#x2
+354 | Ritchie Valens | La Bamba | Oct. '58
+355 | Dr. Dre and 2Pac | California Love | Feb. '96
+356 | Elton John | Candle in the Wind | Oct. '73
+357 | The Isley Brothers | That Lady (Part 1 and 2) | July '73
+358 | Ben E. King | Spanish Harlem | Dec. '60
+359 | Little Eva | The Loco-Motion | June '62
+360 | The Platters | The Great Pretender | Dec. '55
+361 | Elvis Presley | All Shook Up | 
+362 | Eric Clapton | Tears in Heaven | Jan. '92
+363 | Elvis Costello | Watching the Detectives | Nov. '77
+364 | Creedence Clearwater Revival | Bad Moon Rising | April '69
+365 | Eurythmics | Sweet Dreams (Are Made of This) | April '83
+366 | The Jimi Hendrix Experience | Little Wing | Feb. '68
+367 | Martha and the Vandellas | Nowhere to Run | Feb. '65
+368 | Muddy Waters | Got My Mojo Working | 19
+369 | Roberta Flack | Killing Me Softly With His Song | Jan '73
+370 | The Beatles | All You Need is Love | July '67
+371 | The Clash | Complete Control | July '79
+372 | The Box Tops | The Letter | July '67
+373 | Bob Dylan | Highway 61 Revisited | Aug. '65
+374 | The Righteous Brothers | Unchained Melody | July '65
+375 | Bee Gees | How Deep Is Your Love | Sept. '77
+376 | Cream | White Room | Aug. '68
+377 | Depeche Mode | Personal Jesus | Nov. '89
+378 | Bo Diddley | I'm a Man | June '55
+379 | The Jimi Hendrix Experience | The Wind Cries Mary | May '67
+380 | The Who | I Can't Explain | March '65
+381 | Television | Marquee Moon | Feb. '77
+382 | Sam Cooke | Wonderful World | May '60
+383 | Chuck Berry | Brown Eyed Handsome Man | Sept. '56
+384 | Pink Floyd | Another Brick in the Wall Part 2 | Nov. '79
+385 | Radiohead | Fake Plastic Trees | March '95
+386 | Yeah Yeah Yeahs | Maps | Feb. '04
+387 | Ray Charles | Hit the Road Jack | Sept. '61
+388 | U2 | Pride (In the Name of Love) | Oct. '84
+389 | R.E.M. | Radio Free Europe | July '83
+390 | Elton John | Goodbye Yellow Brick Road | Sept. '73
+391 | Aaron Neville | Tell It Like It Is | Nov. '66
+392 | The Verve | Bitter Sweet Symphony | Sept. '97
+393 | The Allman Brothers Band | Whipping Post | Nov. '69
+394 | The Beatles | Ticket to Ride | April '65
+395 | Crosby | Ohio | June '70
+396 | Eric B. and Rakim | Know You Got Soul | July '87
+397 | Elton John | Tiny Dancer | Nov. '71
+398 | The Police | Roxanne | Jan '79
+399 | The Temptations | Just My Imagination | Jan. '71
+400 | The Four Tops | Baby I Need Your Loving | July '64
+401 | The Lovin&#8217; Spoonful | Summer in the City | June '66
+402 | The Five Stairsteps | O-o-h Child | April '70
+403 | Elvis Presley | Can't Help Falling in Love | Oct. '61
+404 | The Shangri-Las | Remember (Walkin' in the Sand) | Aug. '64
+405 | Blue Öyster Cult | (Don't Fear) the Reaper | July '76
+406 | Big Star | Thirteen | April '72
+407 | Lynyrd Skynyrd | Sweet Home Alabama | April '74
+408 | Metallica | Enter Sandman | July '91
+409 | The Shirelles | Tonight's the Night | Sept. '60
+410 | Sly and the Family Stone | Thank You (Falettinme Be Mice Elf Agin) | Jan. '70
+411 | Eddie Cochran | C'mon Everybody | Oct. '58
+412 | Rihanna Featuring Jay-Z | Umbrella | March' 07
+413 | Bob Dylan | Visions of Johanna | May '66
+414 | Carpenters | We've Only Just Begun | Sept. '70
+415 | Nirvana | In Bloom | Sept. '91
+416 | Aerosmith | Sweet Emotion | April '75
+417 | Pixies | Monkey Gone to Heaven | March '89
+418 | Donna Summer | I Feel Love | May '77
+419 | Bobbie Gentry | Ode to Billie Joe | July '67
+420 | Little Richard | The Girl Can't Help It | Jan. '57
+421 | The Coasters | Young Blood | May '57
+422 | The Four Tops | Can't Help Myself | June '65
+423 | Don Henley | The Boys of Summer | Nov. '84
+424 | The Notorious B.I.G. | Juicy | Aug '94
+425 | N.W.A | Fuck tha Police | Jan. '89
+426 | Crosby | Suite: Judy Blue Eyes | June '69
+427 | Dr. Dre | Nuthin' But a G' Thang | Jan. '93
+428 | The Isley Brothers | It's Your Thing | Feb. '69
+429 | Billy Joel | Piano Man | Nov. '73
+430 | Elvis Presley | Blue Suede Shoes | March '56
+431 | The Smiths | William, It Was Really Nothing | Aug. '84
+432 | Green Day | American Idiot | Oct. '04
+433 | Rolling Stones | Tumbling Dice | April '72
+434 | Deep Purple | Smoke on the Water | May '73
+435 | U2 | New Year's Day | April '83
+436 | Solomon Burke | Everybody Needs Somebody to Love | July '64
+437 | The Clash | (White Man) In Hammersmith Palais | July '79
+438 | Fats Domino | Ain't It a Shame | July '55
+439 | Gladys Knight and the Pips | Midnight Train to Georgia | Sept. '73
+440 | Led Zeppelin | Ramble On | Oct. '69
+441 | Wilson Pickett | Mustang Sally | Nov. '66
+442 | Love | Alone Again Or | Jan. '68
+443 | The Rolling Stones | Beast of Burden | June '78
+444 | Elvis Presley | Love Me Tender | Oct. '56
+445 | The Stooges | I Wanna Be Your Dog | August '6
+446 | Salt &#8216;n Pepa | n Pepa, Push It | Nov. '87
+447 | John Cougar Mellencamp | Pink Houses | Oct. '83
+448 | 50 Cent | In Da Club | Dec. '02
+449 | The Dell-Vikings | Come Go With Me | Feb. '57
+450 | Bob Marley and the Wailers | I Shot the Sheriff | Oct. '73
+451 | Sonny and Cher | I Got You Babe | July '65
+452 | Nirvana | Come As You Are | Sept. '91
+453 | Toots and the Maytals | Pressure Drop | Feb. '73
+454 | The Shangri-Las | Leader of the Pack | Oct. '64
+455 | The Velvet Underground | Heroin | March '67
+456 | The Beatles | Penny Lane | Feb. '67
+457 | Chubby Checker | The Twist | Aug. '60
+458 | Sam Cooke | Cupid | July '61
+459 | Guns N&#8217; Roses | Paradise City | Aug. '87
+460 | George Harrison | My Sweet Lord | Nov. '70
+461 | Ramones | Sheena Is a Punk Rocker | May '77
+462 | Nirvana | All Apologies | Sept. '93
+463 | Sam and Dave | Soul Man | Sept. '67
+464 | Prince and the Revolution | Kiss | Feb. '86
+465 | Muddy Waters | Rollin' Stone | 19
+466 | Missy Elliott | Get Ur Freak On | March '01
+467 | Jay-Z Featuring UGK | Big Pimpin | Dec. '99
+468 | The Staple Singers | Respect Yourself | Oct. '71
+469 | The Beatles | Rain | June &#82
+470 | The Four Tops | Standing in the Shadows of Love | Dec. '66
+471 | Cheap Trick | Surrender | May '78
+472 | Del Shannon | Runaway | March '61
+473 | Guns N&#8217; Roses | Welcome to the Jungle | Aug. '87
+474 | Van Morrison | Into the Mystic | March '70
+475 | The Supremes | Where Did Our Love Go | June '64
+476 | Aretha Franklin | Do Right Woman — Do Right Man | March '67
+477 | The Smiths | How Soon Is Now? | Feb. '85
+478 | The Strokes | Last Nite | Aug. '01
+479 | Foreigner | I Want to Know What Love Is | Nov. '84
+480 | Beastie Boys | Sabotage | May '94
+481 | Rick James | Super Freak | Aug. '81
+482 | Kelly Clarkson | Since U Been Gone | Nov. '04
+483 | Jefferson Airplane | White Rabbit | Sept. '67
+484 | Justin Timberlake | Cry Me a River | Nov. '02
+485 | LaBelle | Lady Marmalade | Jan. '75
+486 | David Bowie | Young Americans | March '75
+487 | Alice Cooper | I'm Eighteen | Feb. '71
+488 | The Cure | Just Like Heaven | May '87
+489 | The Drifters | Under the Boardwalk | June '64
+490 | Coldplay | Clocks | Aug. '02
+491 | Joan Jett and the Blackhearts | I Love Rock N Roll | Jan. '82
+492 | Gloria Gaynor | I Will Survive | Dec. '78
+493 | MGMT | Time to Pretend | Jan '08
+494 | R. Kelly | Ignition (Remix) | Oct. '02
+495 | The Rolling Stones | Brown Sugar | April '71
+496 | Jackson Browne | Running on Empty | Jan. '77
+497 | Bruce Springsteen | The Rising | July '02
+498 | The Rolling Stones | Miss You | May '78
+499 | Weezer | Buddy Holly | Aug. '94
+500 | Smokey Robinson and the Miracles | Shop Around | Dec. '60
