@@ -1,4 +1,5 @@
-Rank | Artist | Song | Release Date1 | Bob Dylan | Like a Rolling Stone | July '65
+Rank | Artist | Song | Release Date
+1 | Bob Dylan | Like a Rolling Stone | July '65
 2 | The Rolling Stones | (I Can't Get No) Satisfaction | May '65
 3 | John Lennon | Imagine | Oct. '71
 4 | Marvin Gaye | What's Going On | Feb. '71

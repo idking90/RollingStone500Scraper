@@ -177,7 +177,7 @@ public class Scraper{
 	// will read the data from songs array (one by one) and return a String of the all Song object strings in multiple lines, each line has a Song object String
 	@Override
 	public String toString() {	
-		String toReturn="Rank | Artist | Song | Release Date";
+		String toReturn="Rank | Artist | Song | Release Date" + System.getProperty("line.separator");
 		for(Song song: songs) {
 			if(song == null) {
 				break;
